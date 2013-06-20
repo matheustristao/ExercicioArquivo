@@ -7,7 +7,7 @@ package Principal;
 
 /**
  *
- * @author Matheus
+ * @author Matheus Tristao
  */
 public class Pessoa {
     
